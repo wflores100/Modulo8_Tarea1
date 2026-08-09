@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Complejo Educativo Uruguay
 
 Sistema web de gestión escolar desarrollado para administrar alumnos y usuarios del **Complejo Educativo Uruguay**.
