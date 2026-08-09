@@ -1,4 +1,4 @@
-# Plan de Backups Del Sistema de Gestión acadímico
+# Plan de Backups Del Sistema de Gestión Escolar
 
 ## 1. Objetivo
 
