@@ -1,4 +1,6 @@
 const API_URL = `${import.meta.env.VITE_API_URL}/api/auth`;
+const API_KEY = import.meta.env.VITE_API_KEY;
+
 function obtenerHeaders() {
   const token = localStorage.getItem('token');
 
