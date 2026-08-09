@@ -484,6 +484,7 @@ El sistema cuenta con:
 Proyecto académico — Sistema de Gestión Escolar.
 
 **William Alexander Flores Cardona**
+**María Mercedes Serrano Guevara**
 =======
 # Modulo7_2_semana21
 >>>>>>> a9f2bba9bcf04d1bed0032bfa4f3be04c7e6d2bd
