@@ -17,6 +17,13 @@ app.use(
 
 app.use(express.json());
 
+// Monitoreo de salud de la API
+app.get('/health', (req, res) => {
+  res.status(200).json({
+    status: 'ok',
+  });
+});
+
 // Rutas para alumnos
 app.use('/api/alumnos', alumnosRoutes);
 
